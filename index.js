@@ -1,3 +1,16 @@
 function happyHolidays(string) {
   return "Happy holidays!"
 }// write your code below!
+
+var name === you
+function happyHolidaysTo(name) {
+  return "Happy holidays, ${name}!"
+}
+
+function happyHolidayTo(holiday, name) {
+  return "Happy ${holiday}, ${name}!"
+}
+
+function holidayCountdown(holiday, days) {
+  return "It's ${days} days until ${holiday}!"
+}
